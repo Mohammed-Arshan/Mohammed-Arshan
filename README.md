@@ -6,5 +6,5 @@ Tools: MATLAB, CarMaker, MotorcycleMaker, Visual C, Eclipse
 
 Areas of Interest: Brakes, ADAS, Electric Vehicles
 
-Pursuing Mtech in Automotive Electronics from BITS
+Mtech in Automotive Electronics from BITS
 
